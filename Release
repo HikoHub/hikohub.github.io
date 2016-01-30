@@ -1,0 +1,9 @@
+Origin: Hiko’s Repo
+Label: Hiko’s Repo
+Suite: stable
+Version: 1.0
+Codename: Hiko
+Architectures: iphoneos-arm
+Components: main
+Description: Hiko Repo
+MD5Sum:
